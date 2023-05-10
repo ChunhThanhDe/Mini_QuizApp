@@ -1,3 +1,3 @@
-# DemoApp
-Mini QuizApp for newbie
-hope it will be usefull for u
+# Quiz app 
+##### Mini QuizApp for newbie
+hope it will be usefull for you
